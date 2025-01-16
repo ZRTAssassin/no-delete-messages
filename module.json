@@ -10,12 +10,16 @@
   "authors": [
     {
       "name": "ZRTAssassin",
+      "url": "https://github.com/ZRTAssassin",
       "flags": {}
     }
   ],
   "scripts": [
     "scripts/no-delete-messages.js"
   ],
+  "url": "https://github.com/ZRTAssassin/no-delete-messages",
+  "manifest": "https://raw.githubusercontent.com/ZRTAssassin/no-delete-messages/main/module.json",
+  "download": "https://github.com/ZRTAssassin/no-delete-messages/archive/refs/heads/main.zip",
   "relationships": {
     "requires": [
       {
