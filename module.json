@@ -12,5 +12,17 @@
       "name": "ZRTAssassin",
       "flags": {}
     }
-  ]
+  ],
+  "scripts": [
+    "scripts/no-delete-messages.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
 }
