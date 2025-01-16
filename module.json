@@ -1,0 +1,16 @@
+{
+  "id": "no-delete-messages",
+  "title": "No Delete Messages",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "Prevents players from deleting any messages in the chat.",
+  "authors": [
+    {
+      "name": "ZRTAssassin",
+      "flags": {}
+    }
+  ]
+}
